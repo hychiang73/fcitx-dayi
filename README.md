@@ -23,3 +23,5 @@ Install Chinese input Dayi with fcitx, which can be appied to ubuntu 16.04
 
 `$ sudo make install`
 
+## References
+http://t301000.blogspot.com.au/2013/11/fcitx_87.html
